@@ -1,0 +1,31 @@
+body {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+h1 {
+    color:gold;
+    text-align: center;
+}
+
+.destaque {
+    color: lightblue;
+    font-weight: bold;
+}
+
+#especial {
+    color: red;
+
+}
+.card {
+    background-color: #333;
+    padding: 20px;
+    border: 2px solid gold;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+.imagem-card {
+    width: 200px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
